@@ -63,7 +63,7 @@
         "pg": "^8.14.1",
         "pino": "^9.9.0",
         "pm2": "latest",
-        "prince-baileys": "github:Mayelprince/Prince-bailey",
+        "prince-baileys": "npm:@whiskeysockets/baileys@latest",
         "puppeteer": "^24.4.0",
         "qrcode": "^1.5.4",
         "qrcode-terminal": "^0.12.0",
